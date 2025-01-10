@@ -18,6 +18,18 @@
 		<link rel="stylesheet" type="text/css" id="app-stylesheet" href="assets/css/main.css"><!--[if lt IE 9]>
 			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 		<![endif]-->
+		<style>
+		    /* Style for the iframe to position it at the bottom right */
+		    .chatbot-iframe {
+		      position: fixed;
+		      bottom: 20px; /* Adjust this value to your preference */
+		      right: 20px; /* Adjust this value to your preference */
+		      width: 400px; /* Set the width of the chatbot iframe */
+		      height: 600px; /* Set the height of the chatbot iframe */
+		      border: none;
+		      border-radius: 10px;
+		    }
+		  </style>
 	</head>
 	
 	<body>
@@ -57,6 +69,8 @@
 				</div><!-- End / hero -->
 				
 			</div>
+			<iframe src="http://localhost:3000/chat?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZlNDQ2ZGM1LWMyY2UtNDQzMS04NTBmLWFjZDMzMDljNzM5YyIsImVtYWlsIjoicGF3YXJyYXZpMzMzM0BnbWFpbC5jb20iLCJpYXQiOjE3MzYzMzM5NTN9.9PI5scGqtyAbRO6QEJ2-SnkOAIRZx4_BkHYfyaF_aAE" class="chatbot-iframe" title="Chatbot" width="100px"></iframe>
+  <!-- Footer -->
 			<!-- End / Content-->
 		</div>
 		<!-- Vendors-->
