@@ -57,3 +57,22 @@ AI-Driven Precision: Advanced natural language processing (NLP) ensures accurate
 Seamless Integration: Effortlessly set up solutions tailored to your business ecosystem.
 Future-Ready Innovation: Continually evolving features and modules to meet tomorrow's challenges today.
 Data Privacy & Security: We prioritize secure and encrypted data handling at every step.
+
+
+
+
+Step 1: Effortless Registration
+Icon Suggestions: User icon, email sign-up symbol, shield for secure registration
+Imagery Idea: A user creating an account on a laptop with a shield symbol in the background
+
+Step 2: Seamless Information Setup
+Icon Suggestions: Document upload symbol, cloud icon, AI processing symbol
+Imagery Idea: A cloud with documents floating into it, symbolizing data processing
+
+Step 3: Automated Chatbot Creation
+Icon Suggestions: Chatbot icon, cogwheels, customization wrench
+Imagery Idea: A chatbot emerging from a computer screen, customizable settings in the background
+
+Step 4: Intelligent Query Resolution
+Icon Suggestions: Speech bubbles, AI brain symbol, support headset
+Imagery Idea: A chatbot chatting with happy users on web and mobile devices
